@@ -12,7 +12,6 @@ A simple Bash Script which automates the extraction of Files from a JPG-File wit
 1. bash steghide.sh
 2. select JPG-FILE
 3. look into your directory to see if any data has been extracted 
-
 ```
 
 ## Requirements
