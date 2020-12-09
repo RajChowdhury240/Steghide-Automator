@@ -1,4 +1,4 @@
-![StegHide](https://1.bp.blogspot.com/-cuKH2Al-oks/VXvpieVCh6I/AAAAAAAAAO0/izS7-hl0xYQ/s1600/0.png)
+![StegHide](https://github.com/Rajchowdhury420/Steghide-Automator/blob/main/steghide.png)
 
 # Steghide Automation 
 
