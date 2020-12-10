@@ -9,9 +9,10 @@ A simple Bash Script which automates the extraction of Files from a JPG-File wit
 
 ## Usage of StegHide Automator
 ```
-1. bash steghide.sh
-2. select JPG-FILE
-3. look into your directory to see if any data has been extracted 
+1. chmod +x steghide.sh
+2. bash steghide.sh
+3. select JPG-FILE
+4. look into your directory to see if any data has been extracted 
 ```
 
 ## Requirements
