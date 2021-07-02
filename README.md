@@ -19,4 +19,3 @@ A simple Bash Script which automates the extraction of Files from a JPG-File wit
 ```
 Steghide
 ```
-
