@@ -1,3 +1,4 @@
+#!/bin/bash
 read -p $'\e[1;92m JPG-FILE: \e[0m' picture
 read -p $'\e[1;92m List with passwords: \e[0m' wl_pass 
 wl_pass="${wl_pass}"
